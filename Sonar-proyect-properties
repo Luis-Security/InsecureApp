@@ -1,0 +1,6 @@
+sonar.projectKey=mi_proyecto_seguro
+sonar.projectName=Mi Proyecto Seguro
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.host.url=http://localhost:9000
+sonar.login=squ_47434640dd57b7d0153bef2afd6495bb2f155de1
